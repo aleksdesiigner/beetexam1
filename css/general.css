@@ -19,7 +19,7 @@ body {
 
 section.why-us {
   height: 685px;
-  background: url(/img/why-img.png) no-repeat;
+  background: url(../img/why-img.png) no-repeat;
   background-size: cover;
 }
 
@@ -114,7 +114,7 @@ p.description {
 /* SPAIN FIRST */
 section.spain-first {
   height: 685px;
-  background: url(/img/sp-img-1.png) no-repeat;
+  background: url(../img/sp-img-1.png) no-repeat;
   background-size: cover;
 }
 
@@ -168,7 +168,7 @@ h3 {
 
 section.spain-second {
   height: 685px;
-  background: url(/img/sp-img-2.png) no-repeat;
+  background: url(../img/sp-img-2.png) no-repeat;
   background-size: cover;
 }
 
@@ -185,7 +185,7 @@ section.spain-second .container {
 
 section.testimonials {
   height: 685px;
-  background: url(/img/test-img.png) no-repeat;
+  background: url(../img/test-img.png) no-repeat;
   background-size: cover;
 }
 
@@ -272,7 +272,7 @@ p.sub {
 
   section.why-us {
     height: 685px;
-    background: url(/img/why-img.png) no-repeat;
+    background: url(../img/why-img.png) no-repeat;
     background-size: cover;
   }
 
