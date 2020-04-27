@@ -1,0 +1,11 @@
+:root {
+  /* colors */
+  --main-blue: #5474fd;
+  --back-dark: #333333;
+  --back-dark-opacity: #333333e1;
+  --btn-opacity: #5473fdbd;
+
+  /* fonts */
+  --font-light: #ffffff;
+  --font-gray: #e8e8e8;
+}
