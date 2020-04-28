@@ -157,6 +157,7 @@ i.fa-search {
 }
 
 .btn-search:hover {
+  cursor: pointer;
   -webkit-filter: brightness(120%);
   filter: brightness(120%);
 }

@@ -115,6 +115,7 @@ p.description {
   background-color: var(--main-blue);
   -webkit-filter: brightness(120%);
   filter: brightness(120%);
+  cursor: pointer;
 }
 
 /* FEATURES */
